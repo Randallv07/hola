@@ -1,5 +1,6 @@
 #include <iostream>
 #include "linkedlist.h"
+#include <cmath>
 
 #define SIZE 10
 
